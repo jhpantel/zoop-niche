@@ -1,0 +1,17 @@
+Species,Niche_Volume,Site_occ,Urban_occ,Rural_occ,Habitat_specialization,rarity,Body_size_category,Body_size_mm
+Alona_guttata,41.72,15,4,5,/,/,small,0.26
+Alona_rectangula,44.14,13,2,7,/,/,small,0.35
+Bosmina_longirostris,55.47,17,2,8,/,/,small,0.33
+Ceriodaphnia_sp,90.64,20,7,5,/,/,Small,0.53
+Chydorus_sphaericus,426.98,64,21,19,Generalist,Common,Small,0.26
+Daphnia_longispina_c,221.03,36,12,7,Generalist,Common,Small,0.76
+Daphnia_magna,3.4,7,1,1,Specialist,Rare,Large,1.8
+Daphnia_obtusa,161.27,16,5,2,Generalist,/,Large,1.14
+Daphnia_pulex,112.81,23,7,5,Generalist,Common,Large,1.37
+Graptoleberis_testudinaria,4.31,6,0,4,Specialist,Rare,Small,0.38
+Leydigia_quadrangularis,2.37,5,2,2,Specialist,Rare,Small,0.52
+Pleuroxus_aduncus,2.4,8,0,2,Specialist,Rare,Small,0.41
+Pleuroxus_truncatus,14.3,10,0,6,/,/,small,0.46
+Scapholeberis_mucronata,75.56,24,4,8,/,Common,Small,0.51
+Simocephalus_exspinosus,95.81,22,11,2,/,/,Small,0.95
+Simocephalus_vetulus,19.08,14,4,4,/,/,Small  ,1

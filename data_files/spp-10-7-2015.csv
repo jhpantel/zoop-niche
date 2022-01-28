@@ -1,0 +1,338 @@
+,sites,LAT,LONG,species
+sp 1,PL14_YEL,50.96004444,3.718902778,Alona costata
+sp 2,PL10_RED,51.05428611,4.444625,Alona guttata
+sp 2,PL11_GRE,50.84445,3.614216667,Alona guttata
+sp 2,PL11_RED,50.84605,3.615833333,Alona guttata
+sp 2,PL12_RED,51.11716111,4.475122222,Alona guttata
+sp 2,PL12_YEL,51.134725,4.480525,Alona guttata
+sp 2,PL14_GRE,50.94895,3.720102778,Alona guttata
+sp 2,PL14_RED,50.95616667,3.702536111,Alona guttata
+sp 2,PL2_RED,50.95791944,4.735597222,Alona guttata
+sp 2,PL20_YEL,51.27767778,4.494372222,Alona guttata
+sp 2,PL21_RED,50.80693889,4.956116667,Alona guttata
+sp 2,PL21_YEL,50.80737222,4.932711111,Alona guttata
+sp 2,PL23_RED,50.80773056,4.656527778,Alona guttata
+sp 2,PL26_RED,51.171775,4.414986111,Alona guttata
+sp 2,PL3_YEL,50.843175,4.860761111,Alona guttata
+sp 2,PL9_RED,51.07035278,4.349161111,Alona guttata
+sp 3,PL1_GRE,50.86362222,4.723430556,Alona quadrangularis
+sp 4,PL14_RED,50.95616667,3.702536111,Alona rectangula
+sp 4,PL15_GRE,51.05747778,3.716,Alona rectangula
+sp 4,PL15_RED,51.038975,3.723419444,Alona rectangula
+sp 4,PL18_GRE,51.17915,4.159555556,Alona rectangula
+sp 4,PL19_YEL,50.89608056,3.844738889,Alona rectangula
+sp 4,PL2_RED,50.95791944,4.735597222,Alona rectangula
+sp 4,PL21_YEL,50.80737222,4.932711111,Alona rectangula
+sp 4,PL22_YEL,51.11378056,4.230633333,Alona rectangula
+sp 4,PL23_RED,50.80773056,4.656527778,Alona rectangula
+sp 4,PL24_RED,50.93049444,4.858563889,Alona rectangula
+sp 4,PL24_YEL,50.91920556,4.826836111,Alona rectangula
+sp 4,PL5_RED,51.08702222,3.450572222,Alona rectangula
+sp 4,PL6_YEL,51.238325,4.715980556,Alona rectangula
+sp 6,PL12_YEL,51.134725,4.480525,Alonella exigua
+sp 6,PL14_GRE,50.94895,3.720102778,Alonella exigua
+sp 6,PL26_RED,51.171775,4.414986111,Alonella exigua
+sp 5,PL17_YEL,51.04482778,3.946894444,Alonella exisa
+sp 5,PL22_YEL,51.11378056,4.230633333,Alonella exisa
+sp 7,PL1_GRE,50.86362222,4.723430556,Bosmina longirostris
+sp 7,PL10_YEL,51.02356944,4.484533333,Bosmina longirostris
+sp 7,PL11_GRE,50.84445,3.614216667,Bosmina longirostris
+sp 7,PL11_RED,50.84605,3.615833333,Bosmina longirostris
+sp 7,PL11_YEL,50.85204444,3.618855556,Bosmina longirostris
+sp 7,PL15_RED,51.038975,3.723419444,Bosmina longirostris
+sp 7,PL16_RED,50.77799444,4.521730556,Bosmina longirostris
+sp 7,PL2_RED,50.95791944,4.735597222,Bosmina longirostris
+sp 7,PL20_RED,51.29472222,4.490913889,Bosmina longirostris
+sp 7,PL21_RED,50.80693889,4.956116667,Bosmina longirostris
+sp 7,PL21_YEL,50.80737222,4.932711111,Bosmina longirostris
+sp 7,PL23_RED,50.80773056,4.656527778,Bosmina longirostris
+sp 7,PL4_RED,50.87527778,4.504444444,Bosmina longirostris
+sp 7,PL5_RED,51.08702222,3.450572222,Bosmina longirostris
+sp 7,PL6_GRE,51.21755556,4.738066667,Bosmina longirostris
+sp 7,PL6_RED,51.21917222,4.702294444,Bosmina longirostris
+sp 7,PL6_YEL,51.238325,4.715980556,Bosmina longirostris
+sp 8,GENT_B,51.03665833,3.718005556,Ceriodaphnia sp.
+sp 8,MECH_KT2,51.02391667,4.483836111,Ceriodaphnia sp.
+sp 8,PL11_YEL,50.85204444,3.618855556,Ceriodaphnia sp.
+sp 8,PL12_YEL,51.134725,4.480525,Ceriodaphnia sp.
+sp 8,PL13_RED,50.94305278,4.058022222,Ceriodaphnia sp.
+sp 8,PL14_YEL,50.96004444,3.718902778,Ceriodaphnia sp.
+sp 8,PL15_RED,51.038975,3.723419444,Ceriodaphnia sp.
+sp 8,PL15_YEL,51.042675,3.713891667,Ceriodaphnia sp.
+sp 8,PL16_YEL,50.79711111,4.549427778,Ceriodaphnia sp.
+sp 8,PL17_RED,50.99100556,3.997263889,Ceriodaphnia sp.
+sp 8,PL17_YEL,51.04482778,3.946894444,Ceriodaphnia sp.
+sp 8,PL18_GRE,51.17915,4.159555556,Ceriodaphnia sp.
+sp 8,PL18_YEL,51.15622778,4.159480556,Ceriodaphnia sp.
+sp 8,PL19_GRE,50.90701389,3.827819444,Ceriodaphnia sp.
+sp 8,PL24_GRE,50.940353,4.879131,Ceriodaphnia sp.
+sp 8,PL25_GRE,50.77653056,3.969088889,Ceriodaphnia sp.
+sp 8,PL4_RED,50.87527778,4.504444444,Ceriodaphnia sp.
+sp 8,PL7_GRE,51.13773611,4.709497222,Ceriodaphnia sp.
+sp 8,PL7_RED,51.132575,4.731966667,Ceriodaphnia sp.
+sp 8,PL9_GRE,51.08466667,4.327963889,Ceriodaphnia sp.
+sp 8,PL9_RED,51.07035278,4.349161111,Ceriodaphnia sp.
+sp 8,PL9_YEL,51.08466667,4.324811111,Ceriodaphnia sp.
+sp 9,GENT_B,51.03665833,3.718005556,Chydorus sphaericus
+sp 9,MECH_KT2,51.02391667,4.483836111,Chydorus sphaericus
+sp 9,PL1_RED,50.86673333,4.698511111,Chydorus sphaericus
+sp 9,PL1_YEL,50.87393611,4.696858333,Chydorus sphaericus
+sp 9,PL10_GRE,51.01894444,4.462227778,Chydorus sphaericus
+sp 9,PL10_RED,51.05428611,4.444625,Chydorus sphaericus
+sp 9,PL10_YEL,51.02356944,4.484533333,Chydorus sphaericus
+sp 9,PL11_GRE,50.84445,3.614216667,Chydorus sphaericus
+sp 9,PL11_RED,50.84605,3.615833333,Chydorus sphaericus
+sp 9,PL11_YEL,50.85204444,3.618855556,Chydorus sphaericus
+sp 9,PL12_GRE,51.08038056,4.517897222,Chydorus sphaericus
+sp 9,PL12_RED,51.11716111,4.475122222,Chydorus sphaericus
+sp 9,PL12_YEL,51.134725,4.480525,Chydorus sphaericus
+sp 9,PL13_GRE,50.94319722,4.063794444,Chydorus sphaericus
+sp 9,PL13_RED,50.94305278,4.058022222,Chydorus sphaericus
+sp 9,PL13_YEL,50.93859167,4.028230556,Chydorus sphaericus
+sp 9,PL14_GRE,50.94895,3.720102778,Chydorus sphaericus
+sp 9,PL14_RED,50.95616667,3.702536111,Chydorus sphaericus
+sp 9,PL14_YEL,50.96004444,3.718902778,Chydorus sphaericus
+sp 9,PL15_GRE,51.05747778,3.716,Chydorus sphaericus
+sp 9,PL15_RED,51.038975,3.723419444,Chydorus sphaericus
+sp 9,PL15_YEL,51.042675,3.713891667,Chydorus sphaericus
+sp 9,PL16_RED,50.77799444,4.521730556,Chydorus sphaericus
+sp 9,PL16_YEL,50.79711111,4.549427778,Chydorus sphaericus
+sp 9,PL17_GRE,51.035425,3.93685,Chydorus sphaericus
+sp 9,PL17_RED,50.99100556,3.997263889,Chydorus sphaericus
+sp 9,PL17_YEL,51.04482778,3.946894444,Chydorus sphaericus
+sp 9,PL19_YEL,50.89608056,3.844738889,Chydorus sphaericus
+sp 9,PL2_RED,50.95791944,4.735597222,Chydorus sphaericus
+sp 9,PL2_YEL,50.96014722,4.739594444,Chydorus sphaericus
+sp 9,PL20_GRE,51.31401111,4.534719444,Chydorus sphaericus
+sp 9,PL20_RED,51.29472222,4.490913889,Chydorus sphaericus
+sp 9,PL20_YEL,51.27767778,4.494372222,Chydorus sphaericus
+sp 9,PL21_GRE,50.81646389,4.905747222,Chydorus sphaericus
+sp 9,PL21_RED,50.80693889,4.956116667,Chydorus sphaericus
+sp 9,PL21_YEL,50.80737222,4.932711111,Chydorus sphaericus
+sp 9,PL22_GRE,51.11449444,4.220077778,Chydorus sphaericus
+sp 9,PL22_RED,51.10074722,4.230980556,Chydorus sphaericus
+sp 9,PL22_YEL,51.11378056,4.230633333,Chydorus sphaericus
+sp 9,PL23_GRE,50.80876944,4.724988889,Chydorus sphaericus
+sp 9,PL23_YEL,50.75738611,4.667286111,Chydorus sphaericus
+sp 9,PL24_GRE,50.940353,4.879131,Chydorus sphaericus
+sp 9,PL24_RED,50.93049444,4.858563889,Chydorus sphaericus
+sp 9,PL24_YEL,50.91920556,4.826836111,Chydorus sphaericus
+sp 9,PL25_GRE,50.77653056,3.969088889,Chydorus sphaericus
+sp 9,PL25_YEL,50.7693,3.953166667,Chydorus sphaericus
+sp 9,PL26_GRE,51.19416667,4.428333333,Chydorus sphaericus
+sp 9,PL26_RED,51.171775,4.414986111,Chydorus sphaericus
+sp 9,PL27_GRE,50.82050278,4.365111111,Chydorus sphaericus
+sp 9,PL27_RED,50.81842778,4.3973,Chydorus sphaericus
+sp 9,PL27_YEL,50.84025278,4.398713889,Chydorus sphaericus
+sp 9,PL3_GRE,50.848325,4.892825,Chydorus sphaericus
+sp 9,PL3_RED,50.83590278,4.907333333,Chydorus sphaericus
+sp 9,PL3_YEL,50.843175,4.860761111,Chydorus sphaericus
+sp 9,PL4_RED,50.87527778,4.504444444,Chydorus sphaericus
+sp 9,PL5_RED,51.08702222,3.450572222,Chydorus sphaericus
+sp 9,PL6_GRE,51.21755556,4.738066667,Chydorus sphaericus
+sp 9,PL6_YEL,51.238325,4.715980556,Chydorus sphaericus
+sp 9,PL7_GRE,51.13773611,4.709497222,Chydorus sphaericus
+sp 9,PL7_RED,51.132575,4.731966667,Chydorus sphaericus
+sp 9,PL7_YEL,51.14345833,4.710102778,Chydorus sphaericus
+sp 9,PL8_RED,51.05164722,3.801966667,Chydorus sphaericus
+sp 9,PL8_YEL,51.052125,3.834716667,Chydorus sphaericus
+sp 9,PL9_GRE,51.08466667,4.327963889,Chydorus sphaericus
+sp 9,PL9_RED,51.07035278,4.349161111,Chydorus sphaericus
+sp 9,PL9_YEL,51.08466667,4.324811111,Chydorus sphaericus
+sp 9,TP_BLAP1_RIV,51.28254722,3.355413889,Chydorus sphaericus
+sp 10,PL11_RED,50.84605,3.615833333,Daphnia cucullata
+sp 10,PL22_RED,51.10074722,4.230980556,Daphnia cucullata
+sp 11,MECH_KT2,51.02391667,4.483836111,Daphnia longispina complex
+sp 11,PL1_GRE,50.86362222,4.723430556,Daphnia longispina complex
+sp 11,PL10_RED,51.05428611,4.444625,Daphnia longispina complex
+sp 11,PL10_YEL,51.02356944,4.484533333,Daphnia longispina complex
+sp 11,PL11_GRE,50.84445,3.614216667,Daphnia longispina complex
+sp 11,PL11_YEL,50.85204444,3.618855556,Daphnia longispina complex
+sp 11,PL13_RED,50.94305278,4.058022222,Daphnia longispina complex
+sp 11,PL14_YEL,50.96004444,3.718902778,Daphnia longispina complex
+sp 11,PL15_RED,51.038975,3.723419444,Daphnia longispina complex
+sp 11,PL15_YEL,51.042675,3.713891667,Daphnia longispina complex
+sp 11,PL16_YEL,50.79711111,4.549427778,Daphnia longispina complex
+sp 11,PL17_GRE,51.035425,3.93685,Daphnia longispina complex
+sp 11,PL17_YEL,51.04482778,3.946894444,Daphnia longispina complex
+sp 11,PL18_GRE,51.17915,4.159555556,Daphnia longispina complex
+sp 11,PL18_RED,51.16239722,4.154108333,Daphnia longispina complex
+sp 11,PL18_YEL,51.15622778,4.159480556,Daphnia longispina complex
+sp 11,PL2_GRE,50.96725278,4.735088889,Daphnia longispina complex
+sp 11,PL20_GRE,51.31401111,4.534719444,Daphnia longispina complex
+sp 11,PL21_GRE,50.81646389,4.905747222,Daphnia longispina complex
+sp 11,PL22_RED,51.10074722,4.230980556,Daphnia longispina complex
+sp 11,PL23_GRE,50.80876944,4.724988889,Daphnia longispina complex
+sp 11,PL23_RED,50.80773056,4.656527778,Daphnia longispina complex
+sp 11,PL24_GRE,50.940353,4.879131,Daphnia longispina complex
+sp 11,PL25_GRE,50.77653056,3.969088889,Daphnia longispina complex
+sp 11,PL25_YEL,50.7693,3.953166667,Daphnia longispina complex
+sp 11,PL26_YEL,51.15884722,4.407777778,Daphnia longispina complex
+sp 11,PL27_YEL,50.84025278,4.398713889,Daphnia longispina complex
+sp 11,PL3_YEL,50.843175,4.860761111,Daphnia longispina complex
+sp 11,PL4_RED,50.87527778,4.504444444,Daphnia longispina complex
+sp 11,PL4_YEL,50.88208889,4.546222222,Daphnia longispina complex
+sp 11,PL5_GRE,51.07948056,3.46215,Daphnia longispina complex
+sp 11,PL5_YEL,51.08053056,3.442036111,Daphnia longispina complex
+sp 11,PL6_RED,51.21917222,4.702294444,Daphnia longispina complex
+sp 11,PL7_YEL,51.14345833,4.710102778,Daphnia longispina complex
+sp 11,PL8_GRE,51.0553,3.830880556,Daphnia longispina complex
+sp 11,PL8_YEL,51.052125,3.834716667,Daphnia longispina complex
+sp 11,PL9_YEL,51.08466667,4.324811111,Daphnia longispina complex
+sp 11,TP_BLAP1_RIV,51.28254722,3.355413889,Daphnia longispina complex
+sp 12,GENT_B,51.03665833,3.718005556,Daphnia magna
+sp 12,MECH_KT2,51.02391667,4.483836111,Daphnia magna
+sp 12,PL1_GRE,50.86362222,4.723430556,Daphnia magna
+sp 12,PL15_YEL,51.042675,3.713891667,Daphnia magna
+sp 12,PL16_YEL,50.79711111,4.549427778,Daphnia magna
+sp 12,PL18_GRE,51.17915,4.159555556,Daphnia magna
+sp 12,PL18_YEL,51.15622778,4.159480556,Daphnia magna
+sp 12,PL25_RED,50.784175,3.916038889,Daphnia magna
+sp 12,PL3_YEL,50.843175,4.860761111,Daphnia magna
+sp 12,TP_BLAP1_RIV,51.28254722,3.355413889,Daphnia magna
+sp 13,PL15_YEL,51.042675,3.713891667,Daphnia obtusa
+sp 13,PL16_GRE,50.96598333,4.529186111,Daphnia obtusa
+sp 13,PL16_YEL,50.79711111,4.549427778,Daphnia obtusa
+sp 13,PL18_GRE,51.17915,4.159555556,Daphnia obtusa
+sp 13,PL18_YEL,51.15622778,4.159480556,Daphnia obtusa
+sp 13,PL19_GRE,50.90701389,3.827819444,Daphnia obtusa
+sp 13,PL19_RED,50.88003056,3.831769444,Daphnia obtusa
+sp 13,PL21_GRE,50.81646389,4.905747222,Daphnia obtusa
+sp 13,PL23_GRE,50.80876944,4.724988889,Daphnia obtusa
+sp 13,PL3_GRE,50.848325,4.892825,Daphnia obtusa
+sp 13,PL3_RED,50.83590278,4.907333333,Daphnia obtusa
+sp 13,PL3_YEL,50.843175,4.860761111,Daphnia obtusa
+sp 13,PL6_GRE,51.21755556,4.738066667,Daphnia obtusa
+sp 13,PL7_GRE,51.13773611,4.709497222,Daphnia obtusa
+sp 13,PL7_RED,51.132575,4.731966667,Daphnia obtusa
+sp 13,PL7_YEL,51.14345833,4.710102778,Daphnia obtusa
+sp 14,GENT_B,51.03665833,3.718005556,Daphnia pulex
+sp 14,MECH_KT2,51.02391667,4.483836111,Daphnia pulex
+sp 14,PL1_GRE,50.86362222,4.723430556,Daphnia pulex
+sp 14,PL1_RED,50.86673333,4.698511111,Daphnia pulex
+sp 14,PL11_GRE,50.84445,3.614216667,Daphnia pulex
+sp 14,PL13_GRE,50.94319722,4.063794444,Daphnia pulex
+sp 14,PL14_YEL,50.96004444,3.718902778,Daphnia pulex
+sp 14,PL15_GRE,51.05747778,3.716,Daphnia pulex
+sp 14,PL15_YEL,51.042675,3.713891667,Daphnia pulex
+sp 14,PL17_GRE,51.035425,3.93685,Daphnia pulex
+sp 14,PL17_YEL,51.04482778,3.946894444,Daphnia pulex
+sp 14,PL18_YEL,51.15622778,4.159480556,Daphnia pulex
+sp 14,PL19_YEL,50.89608056,3.844738889,Daphnia pulex
+sp 14,PL2_GRE,50.96725278,4.735088889,Daphnia pulex
+sp 14,PL2_YEL,50.96014722,4.739594444,Daphnia pulex
+sp 14,PL20_GRE,51.31401111,4.534719444,Daphnia pulex
+sp 14,PL25_GRE,50.77653056,3.969088889,Daphnia pulex
+sp 14,PL26_GRE,51.19416667,4.428333333,Daphnia pulex
+sp 14,PL27_YEL,50.84025278,4.398713889,Daphnia pulex
+sp 14,PL4_YEL,50.88208889,4.546222222,Daphnia pulex
+sp 14,PL5_GRE,51.07948056,3.46215,Daphnia pulex
+sp 14,PL5_YEL,51.08053056,3.442036111,Daphnia pulex
+sp 14,PL6_RED,51.21917222,4.702294444,Daphnia pulex
+sp 14,PL6_YEL,51.238325,4.715980556,Daphnia pulex
+sp 14,PL8_GRE,51.0553,3.830880556,Daphnia pulex
+sp 26,PL20_RED,51.29472222,4.490913889,Diaphanosoma brachyurum
+sp 15,PL10_RED,51.05428611,4.444625,Eurycercus lamellatus
+sp 16,PL15_GRE,51.05747778,3.716,Graptoleberis testudinaria
+sp 16,PL16_RED,50.77799444,4.521730556,Graptoleberis testudinaria
+sp 16,PL20_RED,51.29472222,4.490913889,Graptoleberis testudinaria
+sp 16,PL21_RED,50.80693889,4.956116667,Graptoleberis testudinaria
+sp 16,PL21_YEL,50.80737222,4.932711111,Graptoleberis testudinaria
+sp 16,PL24_RED,50.93049444,4.858563889,Graptoleberis testudinaria
+sp 27,PL24_RED,50.93049444,4.858563889,Iliocryptus agilis
+sp 27,TP_BLAP1_RIV,51.28254722,3.355413889,Iliocryptus agilis
+sp 17,GENT_B,51.03665833,3.718005556,Leydigia quadrangularis
+sp 17,PL22_GRE,51.11449444,4.220077778,Leydigia quadrangularis
+sp 17,PL23_YEL,50.75738611,4.667286111,Leydigia quadrangularis
+sp 17,PL3_YEL,50.843175,4.860761111,Leydigia quadrangularis
+sp 17,PL5_RED,51.08702222,3.450572222,Leydigia quadrangularis
+sp 17,PL6_YEL,51.238325,4.715980556,Leydigia quadrangularis
+sp 18,PL14_GRE,50.94895,3.720102778,Pleuroxus aduncus
+sp 18,PL2_YEL,50.96014722,4.739594444,Pleuroxus aduncus
+sp 18,PL22_RED,51.10074722,4.230980556,Pleuroxus aduncus
+sp 18,PL27_GRE,50.82050278,4.365111111,Pleuroxus aduncus
+sp 18,PL27_RED,50.81842778,4.3973,Pleuroxus aduncus
+sp 18,PL3_YEL,50.843175,4.860761111,Pleuroxus aduncus
+sp 18,PL8_YEL,51.052125,3.834716667,Pleuroxus aduncus
+sp 18,PL9_YEL,51.08466667,4.324811111,Pleuroxus aduncus
+sp 18,TP_BLAP1_RIV,51.28254722,3.355413889,Pleuroxus aduncus
+sp 19,PL27_GRE,50.82050278,4.365111111,Pleuroxus denticulatus
+sp 19,PL27_RED,50.81842778,4.3973,Pleuroxus denticulatus
+sp 20,PL14_GRE,50.94895,3.720102778,Pleuroxus trigonellus
+sp 21,PL12_RED,51.11716111,4.475122222,Pleuroxus truncatus
+sp 21,PL12_YEL,51.134725,4.480525,Pleuroxus truncatus
+sp 21,PL14_GRE,50.94895,3.720102778,Pleuroxus truncatus
+sp 21,PL15_GRE,51.05747778,3.716,Pleuroxus truncatus
+sp 21,PL16_RED,50.77799444,4.521730556,Pleuroxus truncatus
+sp 21,PL2_RED,50.95791944,4.735597222,Pleuroxus truncatus
+sp 21,PL21_GRE,50.81646389,4.905747222,Pleuroxus truncatus
+sp 21,PL22_RED,51.10074722,4.230980556,Pleuroxus truncatus
+sp 21,PL27_YEL,50.84025278,4.398713889,Pleuroxus truncatus
+sp 21,PL9_YEL,51.08466667,4.324811111,Pleuroxus truncatus
+sp 28,PL10_GRE,51.01894444,4.462227778,Polyhemus pediculus
+sp 28,PL10_YEL,51.02356944,4.484533333,Polyhemus pediculus
+sp 22,PL14_YEL,50.96004444,3.718902778,Scapholeberis kingi
+sp 22,PL19_GRE,50.90701389,3.827819444,Scapholeberis kingi
+sp 23,GENT_B,51.03665833,3.718005556,Scapholeberis mucronata
+sp 23,MECH_KT2,51.02391667,4.483836111,Scapholeberis mucronata
+sp 23,PL1_RED,50.86673333,4.698511111,Scapholeberis mucronata
+sp 23,PL10_GRE,51.01894444,4.462227778,Scapholeberis mucronata
+sp 23,PL10_YEL,51.02356944,4.484533333,Scapholeberis mucronata
+sp 23,PL11_YEL,50.85204444,3.618855556,Scapholeberis mucronata
+sp 23,PL12_YEL,51.134725,4.480525,Scapholeberis mucronata
+sp 23,PL14_YEL,50.96004444,3.718902778,Scapholeberis mucronata
+sp 23,PL15_RED,51.038975,3.723419444,Scapholeberis mucronata
+sp 23,PL16_RED,50.77799444,4.521730556,Scapholeberis mucronata
+sp 23,PL18_GRE,51.17915,4.159555556,Scapholeberis mucronata
+sp 23,PL19_YEL,50.89608056,3.844738889,Scapholeberis mucronata
+sp 23,PL2_RED,50.95791944,4.735597222,Scapholeberis mucronata
+sp 23,PL21_GRE,50.81646389,4.905747222,Scapholeberis mucronata
+sp 23,PL22_RED,51.10074722,4.230980556,Scapholeberis mucronata
+sp 23,PL23_YEL,50.75738611,4.667286111,Scapholeberis mucronata
+sp 23,PL24_GRE,50.940353,4.879131,Scapholeberis mucronata
+sp 23,PL24_RED,50.93049444,4.858563889,Scapholeberis mucronata
+sp 23,PL26_RED,51.171775,4.414986111,Scapholeberis mucronata
+sp 23,PL27_RED,50.81842778,4.3973,Scapholeberis mucronata
+sp 23,PL27_YEL,50.84025278,4.398713889,Scapholeberis mucronata
+sp 23,PL4_YEL,50.88208889,4.546222222,Scapholeberis mucronata
+sp 23,PL6_GRE,51.21755556,4.738066667,Scapholeberis mucronata
+sp 23,PL6_RED,51.21917222,4.702294444,Scapholeberis mucronata
+sp 23,PL7_RED,51.132575,4.731966667,Scapholeberis mucronata
+sp 23,PL9_GRE,51.08466667,4.327963889,Scapholeberis mucronata
+sp 24,PL10_GRE,51.01894444,4.462227778,Simocephalus exspinosus
+sp 24,PL13_GRE,50.94319722,4.063794444,Simocephalus exspinosus
+sp 24,PL13_RED,50.94305278,4.058022222,Simocephalus exspinosus
+sp 24,PL14_YEL,50.96004444,3.718902778,Simocephalus exspinosus
+sp 24,PL17_GRE,51.035425,3.93685,Simocephalus exspinosus
+sp 24,PL17_RED,50.99100556,3.997263889,Simocephalus exspinosus
+sp 24,PL17_YEL,51.04482778,3.946894444,Simocephalus exspinosus
+sp 24,PL19_YEL,50.89608056,3.844738889,Simocephalus exspinosus
+sp 24,PL2_GRE,50.96725278,4.735088889,Simocephalus exspinosus
+sp 24,PL21_GRE,50.81646389,4.905747222,Simocephalus exspinosus
+sp 24,PL21_YEL,50.80737222,4.932711111,Simocephalus exspinosus
+sp 24,PL22_GRE,51.11449444,4.220077778,Simocephalus exspinosus
+sp 24,PL22_YEL,51.11378056,4.230633333,Simocephalus exspinosus
+sp 24,PL23_GRE,50.80876944,4.724988889,Simocephalus exspinosus
+sp 24,PL23_YEL,50.75738611,4.667286111,Simocephalus exspinosus
+sp 24,PL24_GRE,50.940353,4.879131,Simocephalus exspinosus
+sp 24,PL25_YEL,50.7693,3.953166667,Simocephalus exspinosus
+sp 24,PL26_GRE,51.19416667,4.428333333,Simocephalus exspinosus
+sp 24,PL3_RED,50.83590278,4.907333333,Simocephalus exspinosus
+sp 24,PL7_GRE,51.13773611,4.709497222,Simocephalus exspinosus
+sp 24,PL7_YEL,51.14345833,4.710102778,Simocephalus exspinosus
+sp 24,PL8_RED,51.05164722,3.801966667,Simocephalus exspinosus
+sp 24,TP_BLAP1_RIV,51.28254722,3.355413889,Simocephalus exspinosus
+sp 25,PL1_RED,50.86673333,4.698511111,Simocephalus vetulus
+sp 25,PL1_YEL,50.87393611,4.696858333,Simocephalus vetulus
+sp 25,PL10_RED,51.05428611,4.444625,Simocephalus vetulus
+sp 25,PL11_GRE,50.84445,3.614216667,Simocephalus vetulus
+sp 25,PL11_YEL,50.85204444,3.618855556,Simocephalus vetulus
+sp 25,PL12_GRE,51.08038056,4.517897222,Simocephalus vetulus
+sp 25,PL12_YEL,51.134725,4.480525,Simocephalus vetulus
+sp 25,PL14_GRE,50.94895,3.720102778,Simocephalus vetulus
+sp 25,PL16_RED,50.77799444,4.521730556,Simocephalus vetulus
+sp 25,PL18_GRE,51.17915,4.159555556,Simocephalus vetulus
+sp 25,PL24_RED,50.93049444,4.858563889,Simocephalus vetulus
+sp 25,PL27_RED,50.81842778,4.3973,Simocephalus vetulus
+sp 25,PL9_RED,51.07035278,4.349161111,Simocephalus vetulus
+sp 25,PL9_YEL,51.08466667,4.324811111,Simocephalus vetulus
